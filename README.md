@@ -133,3 +133,8 @@ TPS global y por gateway
 Colas pendientes
 
 Tasa de errores
+
+### Configuración de correo
+El script `GW_status_email.py` requiere:
+- Servidor SMTP (configurado en el código).
+- Credenciales de envío (usuario/contraseña).
