@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# DB / configuración local
+*.sqlite
+*.db
+*.ini
+*.log
+License.py
+Setting.ini
+
+# Sistema
+.DS_Store
+Thumbs.db
