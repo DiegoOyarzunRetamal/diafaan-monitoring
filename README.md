@@ -32,3 +32,13 @@ Cada script retorna códigos de salida estándar:
 Ejemplo de uso:
 ```bash
 python latencia_GW.py 192.168.1.10 5060
+
+🖥️ Requisitos
+
+Python 3.x
+
+Librerías: pyodbc, requests, configparser
+
+📊 Visualización
+
+Estos scripts se integran con Prometheus y Grafana para construir dashboards de TPS, colas y estado de gateways.
