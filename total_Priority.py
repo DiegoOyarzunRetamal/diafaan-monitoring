@@ -5,8 +5,8 @@ import time
 import importlib.util
 
 # Rutas de configuración
-db_config_path = r'C:\T-Voip\Monitor\OTP\Setting.ini'
-license_config_path = r'C:\T-Voip\Monitor\OTP\License.py'  # Ruta modificada a License.py
+db_config_path = r'C:/turuta\Monitor\OTP\Setting.ini'
+license_config_path = r'C:\turuta\Monitor\OTP\License.py'  # Ruta modificada a License.py
 
 # Configuración de reintentos y tiempo de espera
 RETRIES = 3       # Número de reintentos en caso de bloqueo
